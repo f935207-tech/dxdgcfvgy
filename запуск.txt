@@ -1,0 +1,2 @@
+gcc -o c c.c
+./c tp.bmp
